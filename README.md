@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="[your-profile-image.jpg](https://www.linkedin.com/in/a-v-s-sai-teja-69596b189/overlay/background-image/)" alt="Sai Teja - IoT Cybersecurity Enthusiast">
-</p>
 
 # Hello, World! 👋
 
@@ -28,4 +25,4 @@ My diverse experiences, spanning web development, cybersecurity, and leadership 
 
 Feel free to explore my repositories, and let's connect to share ideas and explore new horizons together!
 
-[[![Linkedin: Sai Teja]](https://www.linkedin.com/in/a-v-s-sai-teja-69596b189/)(https://img.shields.io/badge/-Sai_Teja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/yourlinkedin/)
+[[![Linkedin: Sai Teja]](https://www.linkedin.com/in/a-v-s-sai-teja-69596b189/)
