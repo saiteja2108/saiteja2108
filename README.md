@@ -1,5 +1,5 @@
 #  **A V S Sai Teja**  
-**`Passionate Developer | Industry 4.0 Enthusiast | Mechatronics Innovator`**
+**`IoT Developer | Industry 4.0 Enthusiast | Web Developer`**
 
 ---
 
@@ -49,7 +49,7 @@ I specialize in blending **hardware and software** to create impactful projects 
 
 ### 🎓 **Education**  
 🎓 **C V Raman Global University, Odisha**  
-- B.Tech in **Computer Science** (IoT & Cybersecurity), **CGPA:** 8.5  
+- B.Tech in **Computer Science** (IoT & Cybersecurity) 
 
 
 
