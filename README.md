@@ -1,4 +1,4 @@
-# 🌟 A V S Sai Teja 🌟  
+#  A V S Sai Teja 
 **`Passionate Developer | Industry 4.0 Enthusiast | Mechatronics Innovator`**
 
 ---
