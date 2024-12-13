@@ -1,28 +1,63 @@
+# 🌟 A V S Sai Teja 🌟  
+**`Passionate Developer | Industry 4.0 Enthusiast | Mechatronics Innovator`**
 
-# Hello, World! 👋
+---
 
-I'm Sai Teja, a passionate B.Tech student with a specialization in IoT Cybersecurity. I bring a fusion of technology, development, and cybersecurity skills to the table.
+### 👋 Hello there!  
+Welcome to my GitHub profile! I'm A V S Sai Teja, a tech enthusiast driven by a passion for building innovative solutions. With expertise spanning **IoT, Cybersecurity, Embedded Systems, and Industry 4.0**, I love working on projects that blend hardware and software to create impactful solutions.
 
-## 🌟 What's in My Toolkit?
+---
 
-- **Web Development:** With a solid foundation in web development, I've been crafting digital experiences that make an impact. 
+### 🔧 My Skillset
 
-- **Hackathon Finalist:** I earned recognition as a finalist in the prestigious Smart Odisha Hackathon 2022, where innovation thrives.
+#### **💻 Programming Languages**  
+![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-- **Intern at Oasis Infobyte:** I refined my web development prowess during my time as an intern at Oasis Infobyte.
+#### **🌐 Web Development**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
-- **Cybersecurity Apprentice:** My journey at IBM allowed me to contribute to the world of cybersecurity, where I discovered the importance of digital defense.
+#### **⚙️ Hardware & Embedded Systems**  
+- **Microcontrollers:** STM32, Raspberry Pi, Arduino  
+- **Protocols:** OPC UA, MQTT, CAN  
+- **Industry Standards:** PLC Programming, Electro-Pneumatics, HMI  
 
-- **College Representative:** As a College Representative for Mood Indigo at IIT Bombay, I wore the hat of a communicator and leader, representing my college with pride.
 
-## 💡 ProCod - Empowering Future Coders
 
-I'm the mind behind ProCod, an innovative platform dedicated to helping students learn and practice programming languages with efficiency and enthusiasm.
+### 🌟 Achievements
+- **🏅 Industry 4.0 Bronze Medalist** - Odisha Skills Competition  
+- **Published Research:** *"Optimising IoT: Integrating Smart-Sensor Data Fusion"*  
+- **Hackathon Excellence:** Industrial Waste Management Web Application  
 
-## 🚀 Onward and Upward
+---
 
-My diverse experiences, spanning web development, cybersecurity, and leadership roles, have shaped me into a versatile professional. I'm fueled by the zeal to embrace new challenges and drive positive change in the ever-evolving world of technology.
+### 🎓 Education  
+- **C V Raman Global University, Odisha**  
+   B.Tech in Computer Science (IoT & Cybersecurity), CGPA: 8.13 
 
-Feel free to explore my repositories, and let's connect to share ideas and explore new horizons together!
+---
 
-[[![Linkedin: Sai Teja]](https://www.linkedin.com/in/a-v-s-sai-teja-69596b189/)
+### 📈 GitHub Stats  
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" alt="GitHub Streak" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+- **Email:** [saiteja00121@gmail.com](mailto:saiteja00121@gmail.com)  
+- **LinkedIn:** [A V S Sai Teja](https://www.linkedin.com/in/yourlinkedin)  
+- **Portfolio:** [Sai Teja's Portfolio](https://yourportfolio.com)  
+
+---
+
+✨ *"Innovation is the bridge between imagination and reality."* ✨
